@@ -1,0 +1,31 @@
+/Library/Java/JavaVirtualMachines/jdk-17.0.4.1.jdk/Contents/Home/bin/java -javaagent:/private/var/folders/r7/0k8x41t105s7hj80frnd059h0000gn/T/AppTranslocation/9404EFCE-DFC1-405C-8998-F7787362C26D/d/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63507:/private/var/folders/r7/0k8x41t105s7hj80frnd059h0000gn/T/AppTranslocation/9404EFCE-DFC1-405C-8998-F7787362C26D/d/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/danielmontes/Downloads/hw7_19/out/test/hw7_19:/Users/danielmontes/Downloads/hw7_19/out/production/hw7_19 Tester
+EE
+DD
+BD
+null
+AB
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-17.0.4.1.jdk/Contents/Home/bin/java -javaagent:/private/var/folders/r7/0k8x41t105s7hj80frnd059h0000gn/T/AppTranslocation/9404EFCE-DFC1-405C-8998-F7787362C26D/d/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63513:/private/var/folders/r7/0k8x41t105s7hj80frnd059h0000gn/T/AppTranslocation/9404EFCE-DFC1-405C-8998-F7787362C26D/d/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/danielmontes/Downloads/hw7_19/out/production/hw7_19 Hashtable
+Inital hash table is: 
+{
+}
+After two adds, hashtalbe is: 
+{
+	[Key: [john] Value: [10]]
+	[Key: [smith] Value: [30]]
+}
+After four adds, hashtalbe is: 
+{
+	[Key: [green] Value: [60]]
+	[Key: [john] Value: [10]]
+	[Key: [smith] Value: [30]]
+}
+After remove green, hashtalbe is: 
+{
+	[Key: [john] Value: [10]]
+	[Key: [smith] Value: [30]]
+}
+
+Process finished with exit code 0

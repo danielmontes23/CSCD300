@@ -1,0 +1,44 @@
+Time cost in milliseconds for mergesort 96.0
+true
+Size of list A is: 20000
+Time cost in milliseconds for insertionsort 1978.0
+true
+Size of list A2 is: 20000
+
+Process finished with exit code 0
+
+Time cost in milliseconds for mergesort 60.0
+true
+Size of list A is: 20000
+Time cost in milliseconds for insertionsort 1528.0
+true
+Size of list A2 is: 20000
+
+Process finished with exit code 0
+
+Time cost in milliseconds for mergesort 55.0
+true
+Size of list A is: 20000
+Time cost in milliseconds for insertionsort 1100.0
+true
+Size of list A2 is: 20000
+
+Process finished with exit code 0
+
+Time cost in milliseconds for mergesort 55.0
+true
+Size of list A is: 20000
+Time cost in milliseconds for insertionsort 1102.0
+true
+Size of list A2 is: 20000
+
+Process finished with exit code 0
+
+Time cost in milliseconds for mergesort 49.0
+true
+Size of list A is: 20000
+Time cost in milliseconds for insertionsort 1183.0
+true
+Size of list A2 is: 20000
+
+Process finished with exit code 0
